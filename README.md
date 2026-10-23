@@ -54,3 +54,9 @@ A、D 行走，W 腾跃，J 抡棒；余键随场提示于幕下。
 ## 影人
 
 影人照陕西、唐山皮影之制：牛皮镂刻，大红、翠绿、明黄，透灯而见。
+
+## 版权
+
+© 2026 Nicole Huo. All rights reserved.  
+版权所有，未经许可，不得复制、改作或他用。  
+字体另依 SIL Open Font License 1.1，见 `game/assets/fonts`。
